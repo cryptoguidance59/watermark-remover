@@ -1,12 +1,6 @@
-*.pyc
-watermark-cvpr17.github.io/*
-watermark-cvpr17.github.io
 .idea/*
 .idea
 paper/*
 paper
 .DS_Store
-tmp
-tmp/*
 *~
-test_result.png
