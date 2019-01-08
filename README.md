@@ -1,6 +1,10 @@
 # Watermark Remover Automatically
 
+## Tips
+
 **If you want the source code, please email me.**
+
+**Please run with Python 3.6.5
 
 ## Result
 
